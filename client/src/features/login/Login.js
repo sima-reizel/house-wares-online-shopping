@@ -31,7 +31,7 @@ export default function Login(){
   let directPassword=useSelector(state=>state.users.direcPass);
 
   const error=()=>{ 
-  return (alert("please register"))
+  return (alert("Please register"))
   }
 
   return (
@@ -40,16 +40,16 @@ export default function Login(){
       <Form className="form" onSubmit={HandleSubmit} >
         <div className="Auth-form-content">
           <Form.Group size="lg" controlId="userName" >
-            <Form.Label className='label'>name</Form.Label>
-             <Form.Control placeholder="enter your name" ref={inputName} autoFocus type="name" />
+            <Form.Label className='label'>Name</Form.Label>
+             <Form.Control placeholder="Enter your name" ref={inputName} autoFocus type="name" />
           </Form.Group>
           <Form.Group size="lg" controlId="password" >
             <Form.Label className='label'>Password</Form.Label>
-             <Form.Control placeholder="pass" ref={inputPass} type="password" />
+             <Form.Control placeholder="Enter your password" ref={inputPass} type="password" />
           </Form.Group>
         </div>  
          <br/>     
-         <Button width="20" onClick={()=>{sentToUserSlice()}}>login</Button>
+         <Button width="20" onClick={()=>{sentToUserSlice()}}>Login</Button>
       </Form> 
     </div> 
   </>

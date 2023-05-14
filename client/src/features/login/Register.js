@@ -24,28 +24,28 @@ const sentToUserSlice=()=>{
       <Form className="form" >
          <div className="Auth-form-content">
          <Form.Group size="lg" controlId="userName" >       
-           <Form.Label className='label'>name</Form.Label>
-           <Form.Control  placeholder="enter your name" ref={inputName} autoFocus  type="name"  
+           <Form.Label className='label'>Name</Form.Label>
+           <Form.Control  placeholder="Enter your name" ref={inputName} autoFocus  type="name"  
         />
          </Form.Group>
         <Form.Group size="lg" controlId="password" >
            <Form.Label className='label'>Password</Form.Label>
-           <Form.Control placeholder=" enter your password" ref={inputPass}  type="password"  
+           <Form.Control placeholder=" Enter your password" ref={inputPass}  type="password"  
          />
          </Form.Group>
         <Form.Group size="lg" controlId="userPhon" >       
-           <Form.Label className='label'>phon</Form.Label>
-           <Form.Control  placeholder="enter your phon" ref={inputPhon} autoFocus  type="phon"
+           <Form.Label className='label'>Phon</Form.Label>
+           <Form.Control  placeholder="Enter your phon" ref={inputPhon} autoFocus  type="phon"
         />
         </Form.Group>
           <Form.Group size="lg" controlId="userMail" >       
-           <Form.Label className='label'>mail</Form.Label>
-           <Form.Control  placeholder="enter your mail" ref={inputMail} autoFocus  type="email" 
+           <Form.Label className='label'>Mail</Form.Label>
+           <Form.Control  placeholder="Enter your mail" ref={inputMail} autoFocus  type="email" 
         />
           </Form.Group>
             </div>
             <br/>
-          <Button width="20" onClick={()=>{sentToUserSlice()}}>register</Button>
+          <Button width="20" onClick={()=>{sentToUserSlice()}}>Register</Button>
       </Form>
     </div>
   </>
