@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "64579d460bab1f62837a24d3"
+  },
+  "imgUrl": "https://cdn.pixabay.com/photo/2021/03/01/13/22/housewares-6059709__480.jpg",
+  "name": "set",
+  "price": "130",
+  "code": "9"
+},{
+  "_id": {
+    "$oid": "6457bda1a5c8ac56b66782b9"
+  },
+  "name": "couch",
+  "price": 7000,
+  "imgUrl": "https://media.istockphoto.com/id/1219892918/photo/stylish-interior-design-of-living-room-with-modern-mint-sofa-wooden-console-furniture-plant.jpg?s=612x612&w=0&k=20&c=a-UKjGdhoJfnovV8fYjHfMT2Nr0BODugXyg8GB3-hiA=",
+  "__v": 0,
+  "code": "12"
+},{
+  "_id": {
+    "$oid": "645d1201e257317cd35f3641"
+  },
+  "name": "dishes",
+  "price": 250,
+  "imgUrl": "https://media.istockphoto.com/id/526920325/photo/kitchenware-on-wooden-shelves.jpg?s=612x612&w=0&k=20&c=SOlfj82zu_1DWAKpXdLRv0k0lTJS5cXJ0fkZ4Ym6XRU=",
+  "id": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d1219e257317cd35f3645"
+  },
+  "name": "Sofa",
+  "price": 2500,
+  "imgUrl": "https://media.istockphoto.com/id/1251694108/photo/scandinavian-concept-of-living-room-interior-with-design-sofa-coffee-table-plant-in-pot.jpg?s=612x612&w=0&k=20&c=ITXyoZJVlM4NlRynI5Vip1_ddWGIRPy1TyJhFbxL6Hk=",
+  "id": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d1249e257317cd35f3649"
+  },
+  "name": "baking dish",
+  "price": 300,
+  "imgUrl": "https://media.istockphoto.com/id/476392316/photo/kitchen-utensil.jpg?s=612x612&w=0&k=20&c=Mb2d_7WGJP6N5Jb__soAl74ZUhFwH47iSdJtXeoW47o=",
+  "id": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d127ce257317cd35f364d"
+  },
+  "name": "Plates",
+  "price": 129,
+  "imgUrl": "https://media.istockphoto.com/id/520942274/photo/kitchen-utensil-set.jpg?s=612x612&w=0&k=20&c=OMiMFyWTzelL9Q7oJYioUDbkElbQMgWI8tPwjwc-UQU=",
+  "id": "4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d12aee257317cd35f3651"
+  },
+  "name": "blanket",
+  "price": 79,
+  "imgUrl": "https://media.istockphoto.com/id/943910360/photo/posters-in-cozy-apartment-interior.jpg?s=612x612&w=0&k=20&c=QzNjsxCNMcFNxpn4E2ocPvSU8Ud2S3B_mHyo5L-HOLo=",
+  "id": "5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d12dbe257317cd35f3655"
+  },
+  "name": "candles",
+  "price": 37,
+  "imgUrl": "https://media.istockphoto.com/id/1318462855/photo/cozy-home-composition-with-candles-aroma-sticks-and-a-knitted-element.jpg?s=612x612&w=0&k=20&c=uZNDXXMZ6dfXMMdM6oDpldBlvRyFxGZIqw41O_9OC94=",
+  "id": "6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d1303e257317cd35f3659"
+  },
+  "name": "Floor lamp",
+  "price": 900,
+  "imgUrl": "https://media.istockphoto.com/id/1212526330/photo/bohemian-living-room-interior-3d-render.jpg?s=612x612&w=0&k=20&c=iIQ5wqa4NYpLn0YJvT_NAzMilwTFkTlprwbXAasOn9s=",
+  "id": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d132de257317cd35f365d"
+  },
+  "name": "storage",
+  "price": 25,
+  "imgUrl": "https://media.istockphoto.com/id/628747788/photo/folded-cotton-towel-under-white-marble-bathroom-marble-counter.jpg?s=612x612&w=0&k=20&c=30Zgmf6jpDzFgquR26CzX-2H1Q51AWbptzPf-zPWDEA=",
+  "id": "7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d135be257317cd35f3661"
+  },
+  "name": "Fragrance distributor",
+  "price": 100,
+  "imgUrl": "https://media.istockphoto.com/id/1307151703/photo/aroma-oil-diffuser-on-chair-against-in-the-bedroom.jpg?s=612x612&w=0&k=20&c=32isFBh1I0lM1EQtA6xY4aj844eg_c00EjlfCW0Gdls=",
+  "id": "8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d138ae257317cd35f3665"
+  },
+  "name": "picture frames",
+  "price": 58,
+  "imgUrl": "https://media.istockphoto.com/id/909575500/photo/modern-flat-interior-with-posters.jpg?s=612x612&w=0&k=20&c=9y3HCX5ciaRGG08vggkrhbkrzJRBoC6Y2pZ56V2Xuuc=",
+  "id": "10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d13bce257317cd35f3669"
+  },
+  "name": "green sofa",
+  "price": 5000,
+  "imgUrl": "https://media.istockphoto.com/id/1326191354/photo/green-sofa-in-modern-apartment-interior-with-empty-wall-and-wooden-table.jpg?s=612x612&w=0&k=20&c=dtGbXtdEGK1xlblrDuLrx9RoCG_fpVBsDGO0hIbmXkY=",
+  "id": "11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d13f7e257317cd35f366d"
+  },
+  "name": "Dish rack",
+  "price": 45,
+  "imgUrl": "https://media.istockphoto.com/id/1218125828/photo/kitchen-drain-rack.jpg?s=612x612&w=0&k=20&c=2NLpbaxm1AhlSwGXTqfaN4GhMFI3w9mFU956TA6PlAY=",
+  "id": "13",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6460aebfefd4cbc39509f6e3"
+  },
+  "name": "bedding",
+  "price": 500,
+  "imgUrl": "https://media.istockphoto.com/id/1366511912/photo/eco-friendly-interior-style-bedroom-room-wall-mockup-wall-art-3d-rendering-3d-illustration.jpg?s=612x612&w=0&k=20&c=dC8tkmkIBBEdpqPePhpIy7vAE1hStyoDcISf4wCUe2Y=",
+  "id": "20",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6460af43efd4cbc39509f6e7"
+  },
+  "name": "mirror",
+  "price": 320,
+  "imgUrl": "https://media.istockphoto.com/id/1377454217/photo/interior-of-3d-rendered-furniture-in-living-room.jpg?s=612x612&w=0&k=20&c=ECPXC_O9sA9HszjgwggQ0o3fA2Q7oIVeVCjYcexJ8lY=",
+  "id": "21",
+  "__v": 0
+}]
