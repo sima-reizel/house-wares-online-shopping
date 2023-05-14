@@ -1,0 +1,40 @@
+.Login {
+    background-color: white;
+    margin-top: 0%;
+  }
+  
+  .Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40vw;
+    height: 40vh;
+  }
+  
+  .form {
+    width: 420px;
+    height:300px ;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color: white;
+  }
+  
+  .Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  .butten{ 
+    justify-content: center;
+    align-items: center;
+    margin:30px;
+    padding-left: 12%;
+    width: 20vw;
+    padding-right: 12%;
+  }
+  .label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(34, 34, 34);
+  }
