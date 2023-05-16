@@ -11,7 +11,7 @@ export default function Login() {
  let navigate=useNavigate();
  const inputName=useRef(null);
  const inputPass=useRef(null);
- const inputPhon=useRef(null);
+ const inputPhone=useRef(null);
  const inputMail=useRef(null);
 
 const sentToUserSlice=()=>{
@@ -33,9 +33,9 @@ const sentToUserSlice=()=>{
            <Form.Control placeholder=" Enter your password" ref={inputPass}  type="password"  
          />
          </Form.Group>
-        <Form.Group size="lg" controlId="userPhon" >       
+        <Form.Group size="lg" controlId="userPhone" >       
            <Form.Label className='label'>Phone</Form.Label>
-           <Form.Control  placeholder="Enter your phon" ref={inputPhon} autoFocus  type="phone"
+           <Form.Control  placeholder="Enter your phone" ref={inputPhone} autoFocus  type="phone"
         />
         </Form.Group>
           <Form.Group size="lg" controlId="userMail" >       
