@@ -99,7 +99,7 @@ return (
               <Button style={{marginLeft:50,fontSize:15}} onClick={()=>{navigate('./remove')}}>למחיקת מוצר</Button>
             </Stack>  
             <Stack direction="row" spacing={2}>
-              <Button style={{marginLeft:750,fontSize:15}} onClick={()=>{out()}}>sign up </Button>
+              <Button style={{marginLeft:750,fontSize:15}} onClick={()=>{out()}}>Log out</Button>
             </Stack> 
             <Typography
               variant="h6"

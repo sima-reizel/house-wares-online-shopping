@@ -120,12 +120,12 @@ return (
             <h5>{u.name}</h5>
             {u.name!='Guest'&&
             <Stack paddingLeft={3} direction="row" spacing={2} >
-             <Button color="bag"  style={{marginLeft:25,fontSize:20}}   onClick={()=>{out()}}>Sign Up</Button>
+             <Button color="bag"  style={{marginLeft:25,fontSize:20}}   onClick={()=>{out()}}>Log out</Button>
             </Stack>   
             } 
             {u.name=='Guest'&&
             <Stack paddingLeft={3} width={250} direction="row" spacing={2}>
-             <Button color="bag" style={{marginLeft:25,fontSize:20}}  onClick={()=>{navigate('./Login')}}>Sign in</Button>
+             <Button color="bag" style={{marginLeft:25,fontSize:20}}  onClick={()=>{navigate('./Login')}}>Login</Button>
             </Stack>
             }
             <Stack direction="row" spacing={2} >

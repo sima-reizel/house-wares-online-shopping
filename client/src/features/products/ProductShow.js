@@ -42,7 +42,7 @@ return (<>
             <br/>          
             <br/>
             <h3>${prod.price}</h3>
-            <input  placeholder="amount" onChange={(e)=>{number=e.target.value}} />
+            <input  placeholder="Amount" onChange={(e)=>{number=e.target.value}} />
             { u.name!="Guest"&&   
             <div>
               <IconButton style={{width:150 ,textAlign:'center'}} onClick={()=>{disp(addOrder({...prod,qty:number}))
@@ -72,7 +72,7 @@ return (<>
                 width="70px"
             src={prod.imgUrl} /> 
             <br/>
-          <label>qty{prod.qty}</label>
+          <label>Amount :{prod.qty}</label>
           <br/>
           <label>${prod.price}</label>
           <br />

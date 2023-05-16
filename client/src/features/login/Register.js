@@ -34,8 +34,8 @@ const sentToUserSlice=()=>{
          />
          </Form.Group>
         <Form.Group size="lg" controlId="userPhon" >       
-           <Form.Label className='label'>Phon</Form.Label>
-           <Form.Control  placeholder="Enter your phon" ref={inputPhon} autoFocus  type="phon"
+           <Form.Label className='label'>Phone</Form.Label>
+           <Form.Control  placeholder="Enter your phon" ref={inputPhon} autoFocus  type="phone"
         />
         </Form.Group>
           <Form.Group size="lg" controlId="userMail" >       
